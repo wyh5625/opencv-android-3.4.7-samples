@@ -1,0 +1,1 @@
+include ':beginner-example', ':opencv-sdk', 'camera-calibration', ':puzzle', 'color-blob-detection', ':face-detection', 'image-manipulations', ':tutorial1-camera-preview', ':tutorial2-mixed-processing', ':tutorial3-camera-control'
